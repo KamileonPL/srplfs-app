@@ -1,0 +1,24 @@
+Big Opacity 0.30
+Big Col 255 255 255
+Button Opacity 0.51
+Button Col 0 10 20
+Title Grey 255 255 255
+Big Text 20 28 40
+Text Unselected 160 160 150
+Text Selected 255 255 255
+Text Unavailable 114 114 111
+Text String 48 166 236
+Button Green 31 163 45
+Button Red 173 30 0
+Button Alt 180 180 30
+Map Light Opacity 0.50
+Small Map Light 208 208 208
+Map Dark Opacity 0.50
+Small Map Dark 48 48 48
+Car Lap Ahead 255 255 192
+Car Ahead 224 224 32
+AI Ahead 32 176 240
+Own Car 32 224 32
+AI Behind 48 48 240
+Car Behind 255 160 0
+Car Lap Behind 208 96 0

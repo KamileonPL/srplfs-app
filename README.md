@@ -4,9 +4,11 @@ This is official public repository of SRPLFS application for Live For Speed. If 
 ---
 
 ### How to install
-1. Download latest [release](https://github.com/KamileonPL/srplfs-app/releases/download/v0.0.6/SRPLFS.zip) and unzip the archive,
-2. Copy LFS folder contents to your LFS installation directory (e.g. `C:\LFS`) and confirm replacement of all files,
+1. Download latest files and unzip the archive.
+    1. Click green `Code` button.
+    2. Click `Download ZIP`.
+2. Copy **LFS** folder contents to your LFS installation directory (e.g. `C:\LFS`) and confirm replacement of all files.
 
-Please remember, if you already have a personalized interface of LFS, your current config will be lost once you allow to overwrite the files.
+:warning: Please remember, if you already have a personalized interface of LFS, your current config will be lost once you allow to overwrite the files.
 
 ---
